@@ -14,7 +14,7 @@ struct ContentView: View {
         ZStack {
             Color(hue: 0.572, saturation: 0.426, brightness: 0.988)
             VStack(spacing: 10.0) {
-                Text("About Me")
+                Text("About Me 🫧")
                     .font(.title)
                     .foregroundColor(Color.black)
                     .multilineTextAlignment(.center)
